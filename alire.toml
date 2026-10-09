@@ -8,3 +8,8 @@ maintainers-logins = ["bubio"]
 licenses = "MIT"
 website = ""
 tags = ["emulator", "ada", "gbc"]
+
+executables = ["adagb"]
+
+[[depends-on]]
+df_imgui = "=0.1.0"
