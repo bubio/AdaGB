@@ -1,0 +1,10 @@
+name = "adagb"
+description = "GAME BOY COLOR Emulator written in Ada"
+version = "0.1.0-dev"
+
+authors = ["bubio"]
+maintainers = ["bubio <bubio66@gmail.com>"]
+maintainers-logins = ["bubio"]
+licenses = "MIT"
+website = ""
+tags = ["emulator", "ada", "gbc"]
